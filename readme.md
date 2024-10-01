@@ -1,0 +1,1 @@
+Depois de algum tempo sem práticar HTML, CSS, Javascript e Guihub por conta da carga de trabalho retomei os conteúdos e boas práticas.
